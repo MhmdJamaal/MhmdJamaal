@@ -17,6 +17,8 @@ Instructions for this assignment can be found on the DSCI 522 course website.
 
 1. Clone this GitHub repository.
 
+git clone git@github.com:MhmdJamaal/MhmdJamaal.git
+
 #### Running the analysis
 
 1. Navigate to the root of this project on your computer using the
